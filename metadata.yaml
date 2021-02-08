@@ -1,0 +1,37 @@
+_repo: Twenty-Seven-Drawings-by-William-Blake-Being-Illustrations-for-Paradise-Lost-Comus-and-the-Bi__64374
+_version: 0.0.1
+alternative_title: "27 Drawings by William Blake\r\nBeing Illustrations for Paradise\
+  \ Lost, Comus, and the Bible"
+contributor:
+  author_of_introduction:
+    agent_name: Smalley, Carl J.
+    alias: C. J. S. (Carl J. Smalley)
+    gutenberg_agent_id: '52866'
+    url: http://www.gutenberg.org/2009/agents/52866
+creator:
+  author:
+    agent_name: Blake, William
+    alias: Blake, W. (William)
+    birthdate: 1757
+    deathdate: 1827
+    gutenberg_agent_id: '295'
+    url: http://www.gutenberg.org/2009/agents/295
+    wikipedia: https://en.wikipedia.org/wiki/William_Blake
+description: ''
+gutenberg_issued: '2021-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Illustrations'
+- !lcc 'NC'
+- !lcsh 'Milton, John, 1608-1674. Comus -- Illustrations'
+- !lcsh 'Milton, John, 1608-1674. Paradise lost -- Illustrations'
+- GITenberg
+title: "Twenty-Seven Drawings by William Blake\r\nBeing Illustrations for Paradise\
+  \ Lost, Comus, and the Bible"
+url: http://www.gutenberg.org/ebooks/64374
